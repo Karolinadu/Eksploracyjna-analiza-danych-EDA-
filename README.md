@@ -15,9 +15,9 @@ Celem projektu jest poznanie struktury danych zamówień SuperStore, ocena jako�
 
 ## Wykorzystane technologie
 
-- **Python** – przetwarzanie danych i analiza eksploracyjna
-- **Pandas i NumPy** – przegląd, czyszczenie i przekształcanie danych
-- **Matplotlib i Seaborn** – wizualizacja danych
+- **Python** - przetwarzanie danych i analiza eksploracyjna
+- **Pandas i NumPy** - przegląd, czyszczenie i przekształcanie danych
+- **Matplotlib i Seaborn** - wizualizacja danych
 
 ## Etapy analizy
 
